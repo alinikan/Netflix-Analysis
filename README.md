@@ -32,9 +32,7 @@ To get your Netflix data:
 
 To run the script, simply run the code in your IDE, or navigate to the directory containing the script in a terminal and enter the following command: 
 
-**python script_name.py** or **python3 script_name.py**
-
-(Replace "script_name.py" with the actual name of your script.)
+**python app.py** or **python3 app.py**
 
 ## Functionality
 
