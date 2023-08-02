@@ -26,7 +26,7 @@ To get your Netflix data:
 
 4- Open the folder named **CONTENT_INTERACTION**
 
-4- Place these files **(MyList.csv, ViewingActivity.csv, SearchHistory.csv, Ratings.csv)** in a folder named **DATA** within the same directory as the script
+5- Place these files **(MyList.csv, ViewingActivity.csv, SearchHistory.csv, Ratings.csv)** in a folder named **DATA** within the same directory as the script
 
 ## Running the Script
 
